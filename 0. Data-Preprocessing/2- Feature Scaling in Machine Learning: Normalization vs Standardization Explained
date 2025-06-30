@@ -1,0 +1,34 @@
+1. Feature Scaling is applied to columns, it is never applied to data across rows. It means that the data of the entire column is brought into a range of values using the methods at hand.
+
+2. There are mainly 2 types of feature scaling:
+    i. Normalization
+    ii. Standardization
+
+
+*Normalization* 
+
+    Formula :
+
+    X' = (X-Xmin)/(Xmax-Xmin)
+
+    where, 
+    X' = new value
+    X = value in the column
+    Xmin = minimum value in the column
+    Xmax = maximum value in the column
+
+    range for the column after we apply normalization is : [0;1]
+
+
+*Standardization*
+
+    X' = X-u/s
+
+    where, 
+    X' = new value
+    X = value in the column
+    u = mean
+    s = standard deviation
+
+    range for the column after we apply normalization is : [-3,+3]
+    Note : there might be some outliers that lie outside this range.

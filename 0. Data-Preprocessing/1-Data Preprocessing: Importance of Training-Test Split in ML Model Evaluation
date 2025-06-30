@@ -1,0 +1,10 @@
+when we are training a machine learning model, we have a dataset.
+
+the dataset needs to be split into two halves, namely:
+1. Training set : used to train the ML model
+2. Test set : Used to check the accuracy of the ML model built
+
+
+Usually the split is as follows:
+Training set : 80%
+Test set : 20%

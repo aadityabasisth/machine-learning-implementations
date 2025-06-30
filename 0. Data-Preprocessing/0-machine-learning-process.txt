@@ -1,0 +1,15 @@
+The machine learning process is as follows:
+
+1. Data Preprocessing
+    i. Import the data
+    ii. Clean the Data
+    iii. Split into training and test sets
+
+2. Modelling
+    i. Build the model
+    ii. Train the model
+    iii. Make predictions
+
+3. Evaluation
+    i. Calculate performance metrics
+    ii. Make a verdict
