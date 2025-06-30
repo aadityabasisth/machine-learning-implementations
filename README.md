@@ -1,11 +1,14 @@
-# Machine Learning models implementation
+# Machine Learning Models implementation
 ---
 - This repo tracks machine learning progress over time, will be implementing various models using **Python** language.
 
-- All datasets are included in the respective folder and there is a ipynb file or link in each implementation.
+- All datasets are included in the respective folder, alternatively you can visit the drive link provided.
 
 - Chapter names will be added as per progress and each folder will have its own folder and index.
+---
+you can access all the google collab files here : [google collab files](https://drive.google.com/drive/folders/1ujky_Z16XDXsnDXzSDpwF3P6n5i7Xd7M?usp=drive_link)
 
+---
 - Refer the below inde for modules and sub-modules.
 
 0. Data Preprocessing basics
