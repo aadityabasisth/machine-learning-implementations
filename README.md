@@ -1,6 +1,6 @@
 # Machine Learning Models implementation
 ---
-- This repo tracks machine learning progress over time, will be implementing various models using **Python** language.
+- This repo tracks machine learning progress over time, will be implementing various models using [**Python**](https://www.python.org/) language.
 
 - All datasets are included in the respective folder, alternatively you can visit the drive link provided.
 
