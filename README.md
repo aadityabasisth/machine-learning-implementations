@@ -11,10 +11,10 @@ you can access all the google collab files here : [google collab files](https://
 ---
 - Refer the below inde for modules and sub-modules.
 
-0. Data Preprocessing basics
+**0. Data Preprocessing basics**      
     i. Machine Learning Workflow : Importing, Modelling , and Evaluating your ML model.   
     ii. Data Preprocessing: Importance of Training-Test Split in ML Model Evaluation.   
     iii. Feature Scaling in Machine Learning: Normalization vs Standardization Explained.   
     
-1. Data preprocessing in Python:    
+**1. Data preprocessing in Python:**            
     i. Preparing datasets for ML models.    
